@@ -9,6 +9,6 @@ Redux workflow: Central Data(state) store where Components Subscribe. But doesn'
 
 Components -(dispatch(trigger))-> Action -(Redux forwards these actions to the Reducer)-> Reducer(performs operation)-(sends new state)->Store-(new state notifying)->Components
 
-Installation: npm init -y, npm install redux
+Installation: npm init -y, npm install redux react-redux
 
 Reducer Function: Inputs Old state and Dispatched Action and return new state object
