@@ -1,0 +1,23 @@
+{
+  "name": "react_redux",
+  "version": "1.0.0",
+  "description": "Redux: State Management system for cross-compoenent (affect multiple components) or app-wide state (affect entire app)\r (local state belonging to a single component is handled by hooks)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CostasArgyropoulos/React_Redux.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CostasArgyropoulos/React_Redux/issues"
+  },
+  "homepage": "https://github.com/CostasArgyropoulos/React_Redux#readme",
+  "dependencies": {
+    "redux": "^4.1.2"
+  }
+}
